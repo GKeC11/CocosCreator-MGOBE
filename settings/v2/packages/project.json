@@ -1,0 +1,54 @@
+{
+  "__version__": "1.0.1",
+  "layer": [
+    {
+      "name": "default",
+      "value": 1
+    },
+    {
+      "name": "Default",
+      "value": 2
+    },
+    {
+      "name": "Background",
+      "value": 4
+    },
+    {
+      "name": "Actor",
+      "value": 8
+    },
+    {
+      "name": "Platform",
+      "value": 16
+    },
+    {
+      "name": "Wall",
+      "value": 32
+    },
+    {
+      "name": "Collider",
+      "value": 64
+    },
+    {
+      "name": "Bullet",
+      "value": 128
+    },
+    {
+      "name": "Ui",
+      "value": 256
+    }
+  ],
+  "physics": {
+    "fixedTimeStep": 0.0166667,
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Trigger"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 0
+    }
+  }
+}

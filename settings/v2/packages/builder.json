@@ -1,0 +1,30 @@
+{
+  "__version__": "1.2.6",
+  "textureCompressConfig": {
+    "userPreset": {
+      "presetId1615866562502": {
+        "name": "presetId1615866562502",
+        "options": {
+          "web": {
+            "png": 80,
+            "pvrtc_4bits_rgba": "normal",
+            "etc1_rgb_a": "fast"
+          },
+          "wechatgame": {
+            "png": 80,
+            "pvrtc_4bits_rgba": "normal",
+            "etc1_rgb_a": "fast"
+          },
+          "ios": {
+            "png": 80,
+            "pvrtc_4bits_rgba": "normal"
+          },
+          "android": {
+            "png": 80,
+            "etc1_rgb_a": "fast"
+          }
+        }
+      }
+    }
+  }
+}
