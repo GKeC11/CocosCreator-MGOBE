@@ -12,7 +12,7 @@
 * [x] 可拓展性低
 
 **快速预览**
-![](https://img.imgdb.cn/item/6063349d8322e6675c6d477a.gif)
+![](https://github.com/GKeC11/CocosCreator-MGOBE/blob/main/Rec%200001.gif)
 
 **快速试玩**
 [试玩](http://81.69.192.212:3000/fg/)
